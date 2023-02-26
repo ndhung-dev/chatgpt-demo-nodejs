@@ -1,3 +1,4 @@
+Require docker
 1. cd to root project
 2. open terminal run:
 ```sh
